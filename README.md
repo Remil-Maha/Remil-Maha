@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm **Maha**, a 4th‑year Computer Science student specializing in Systems Engineering at Higher National School of Computer Science ESI-Algiers, with hands‑on experience in machine learning, cloud platforms, net‑<br>work simulation, and IoT systems. I enjoy building intelligent, data‑driven applications while staying grounded in system design, performance, and<br>infrastructure.I’m currently looking for an end‑of‑studies project that bridges smart technologies with reliable and scalable computing systems—<br>particularly those involving machine learning applied to security, networking, or virtualization.
+Hey there! I'm **Maha**, a 4th‑year Computer Science student specializing in Systems Engineering at Higher National School of Computer Science ESI-Algiers, with hands‑on experience in machine learning, cloud platforms, net‑<br>work simulation, and IoT systems. I enjoy building intelligent, data‑driven applications while staying grounded in system design, performance, and<br>infrastructure.
 
 
 ## 🌐 Socials:
